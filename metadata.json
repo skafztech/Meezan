@@ -1,0 +1,7 @@
+{
+  "name": "Meezan - Islamic Companion",
+  "description": "A comprehensive Islamic lifestyle application featuring the Quran with AI-powered explanations, prayer times, Qibla compass, Tasbih counter, and an AI Islamic scholar assistant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
